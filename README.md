@@ -1,7 +1,7 @@
 Sistemas Distribuidos
 ===============================================
 
--Task Point 1
+Task Point 1
 
 - Cada recurso do grupo de comunicação é um processo desenvolvido em Socket
 - Cliente
@@ -11,7 +11,7 @@ Sistemas Distribuidos
 
 --------------------
 
-- Task Point 2
+Task Point 2
 
 - Cada elemento do cenário deve ser um serviço socket em um PC diferente
 - Cliente
